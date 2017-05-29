@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="full-alpha"
-   height="135"
+   height="151.5"
    width="388"
    version="1.0"
    inkscape:version="0.91 r13725"
@@ -93,6 +93,14 @@ Copyright © 2011-2014, marmuta &lt;marmvta@gmail.com&gt;</dc:title>
     </cc:Work>
   </rdf:RDF>
 </metadata>
+<rect
+   id="charlist"
+   height="16"
+   width="366.96545"
+   y="0.5"
+   x="0.51727772"
+   style="fill:#151530;stroke:#7f7f7f;stroke-width:1.03455544" />
+<svg y="16.5">
 <rect
    id="wordlist"
    height="15.965445"
@@ -906,4 +914,5 @@ Group this with the full size return key to enable interpolation between these t
    height="15.999999"
    id="previous-predictions.wordlist"
    inkscape:label="" />
+</svg>
 </svg>
