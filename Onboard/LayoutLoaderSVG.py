@@ -133,6 +133,8 @@ class LayoutLoaderSVG:
         self._svg_cache = {}
         layout = None
 
+        _logger.debug("Opening layout file: '{}'"
+          .format(layout_filename))
         try:
             f = open_utf8(layout_filename)
         except FileNotFoundError as ex:
