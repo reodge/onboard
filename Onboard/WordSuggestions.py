@@ -2111,6 +2111,9 @@ class WordInfo:
                                            self.partial_match, self.ignored,
                                            self.spelling_errors)
 
+class CharListPanel(LayoutPanel):
+    def __init__(self):
+        LayoutPanel.__init__(self)
 
 class WordListPanel(LayoutPanel):
     """ Panel populated with correction and prediction keys at run-time """

@@ -34,7 +34,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
             <include file='word_suggestions.xml'/>
         </panel>
 
-        <panel filename='Full Keyboard-Alpha.svg'>
+        <panel filename='Full Keyboard-Alpha.svg' class="CharListPanel">
         	<key id='charlist'/>
         </panel>
 

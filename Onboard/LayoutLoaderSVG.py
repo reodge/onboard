@@ -43,7 +43,7 @@ from Onboard.utils           import modifiers, Rect, \
                                     unicode_str, XDGDirs
 
 # Layout items that can be created dynamically via the 'class' XML attribute.
-from Onboard.WordSuggestions import WordListPanel
+from Onboard.WordSuggestions import WordListPanel, CharListPanel
 from Onboard.KeyGtk          import RectKey, WordlistKey, BarKey, \
                                     WordKey, InputlineKey
 
