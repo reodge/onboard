@@ -45,7 +45,7 @@ from Onboard.utils           import modifiers, Rect, \
 # Layout items that can be created dynamically via the 'class' XML attribute.
 from Onboard.WordSuggestions import WordListPanel, CharListPanel
 from Onboard.KeyGtk          import RectKey, WordlistKey, BarKey, \
-                                    WordKey, InputlineKey
+                                    WordKey, InputlineKey, CharListKey
 
 ### Config Singleton ###
 from Onboard.Config import Config

@@ -921,6 +921,8 @@ class FixedFontMixin:
 
         return extents
 
+class CharListKey(RectKey):
+    pass
 
 class WordlistKey(RectKey):
 

@@ -35,7 +35,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
         </panel>
 
         <panel filename='Full Keyboard-Alpha.svg' class="CharListPanel">
-        	<key id='charlist'/>
+        	<key id='charlist' class='CharListKey'/>
         </panel>
 
         <box spacing='3'>
